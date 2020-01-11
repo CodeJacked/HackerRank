@@ -1,2 +1,2 @@
-# HackerRank-EqualizeArray
-Equalize the array problem from HackerRank
+# HackerRank
+Solutions to coding problems from HackerRank
