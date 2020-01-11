@@ -15,9 +15,36 @@ using System;
 class Solution {
 
     // Complete the equalizeArray function below.
-    static int equalizeArray(int[] arr) {
+    public static int equalizeArray(int[] arr) 
+    {
+        // look for the number with the most occurrances,
+        // and remove the rest.
+        var occurrances = new Dictionary<int, int>();
+        var maxOccurrances = 0;
+        foreach(var x in arr){
+            var count = 0;
+            if(occurrances.TryGetValue(x, out count))
+            {
+                count++;
+                occurrances[x] = count;
+            }else 
+            {
+                count = 1;
+                occurrances.Add(x, count);
+            }
 
+            maxOccurrances = count > maxOccurrances ? count : maxOccurrances;
+        }
 
+        return arr.Length - maxOccurrances;
+    }
+
+    public static int equalizeArrayLinq(int[] arr) {
+        // look for the number with the most occurrances,
+        // and remove the rest.
+        var occurrances = arr.GroupBy(x => x);
+        var maxOccurrances = occurrances.Max(x => x.Count());
+        return arr.Length - maxOccurrances;
     }
 
     static void Main(string[] args) {
