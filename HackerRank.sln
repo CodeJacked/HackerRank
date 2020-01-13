@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualizeTheArray", "Equaliz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoDArrayDS", "TwoDArrayDS\TwoDArrayDS.csproj", "{F0C4509C-8A58-4556-B78E-5C527FD2B96C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysLeftRotation", "ArraysLeftRotation\ArraysLeftRotation.csproj", "{D3F52FF4-7A57-495D-9145-2D7541C0FBD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{F0C4509C-8A58-4556-B78E-5C527FD2B96C}.Release|x64.Build.0 = Release|Any CPU
 		{F0C4509C-8A58-4556-B78E-5C527FD2B96C}.Release|x86.ActiveCfg = Release|Any CPU
 		{F0C4509C-8A58-4556-B78E-5C527FD2B96C}.Release|x86.Build.0 = Release|Any CPU
+		{D3F52FF4-7A57-495D-9145-2D7541C0FBD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F52FF4-7A57-495D-9145-2D7541C0FBD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F52FF4-7A57-495D-9145-2D7541C0FBD1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D3F52FF4-7A57-495D-9145-2D7541C0FBD1}.Debug|x64.Build.0 = Debug|Any CPU
+		{D3F52FF4-7A57-495D-9145-2D7541C0FBD1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D3F52FF4-7A57-495D-9145-2D7541C0FBD1}.Debug|x86.Build.0 = Debug|Any CPU
+		{D3F52FF4-7A57-495D-9145-2D7541C0FBD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F52FF4-7A57-495D-9145-2D7541C0FBD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F52FF4-7A57-495D-9145-2D7541C0FBD1}.Release|x64.ActiveCfg = Release|Any CPU
+		{D3F52FF4-7A57-495D-9145-2D7541C0FBD1}.Release|x64.Build.0 = Release|Any CPU
+		{D3F52FF4-7A57-495D-9145-2D7541C0FBD1}.Release|x86.ActiveCfg = Release|Any CPU
+		{D3F52FF4-7A57-495D-9145-2D7541C0FBD1}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
