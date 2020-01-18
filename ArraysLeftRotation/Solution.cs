@@ -12,7 +12,7 @@ using System.Text.RegularExpressions;
 using System.Text;
 using System;
 
-namespace ArrayLeftRotation
+namespace ArraysLeftRotation
 {
     class Solution
     {

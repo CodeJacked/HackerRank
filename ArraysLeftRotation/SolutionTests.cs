@@ -3,7 +3,7 @@ using System.Linq;
 using Xunit;
 using Xunit.Abstractions;
 
-namespace ArrayLeftRotation
+namespace ArraysLeftRotation
 {
     public class SolutionTests
     {
