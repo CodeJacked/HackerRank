@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicArray", "DynamicArra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparseArrays", "SparseArrays\SparseArrays.csproj", "{1ED9A2EA-0E5B-460C-B037-DFA2B479AC43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintLinkedList", "PrintLinkedList\PrintLinkedList.csproj", "{EFA51421-80D5-489E-BC23-F075D91C8145}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,5 +88,17 @@ Global
 		{1ED9A2EA-0E5B-460C-B037-DFA2B479AC43}.Release|x64.Build.0 = Release|Any CPU
 		{1ED9A2EA-0E5B-460C-B037-DFA2B479AC43}.Release|x86.ActiveCfg = Release|Any CPU
 		{1ED9A2EA-0E5B-460C-B037-DFA2B479AC43}.Release|x86.Build.0 = Release|Any CPU
+		{EFA51421-80D5-489E-BC23-F075D91C8145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA51421-80D5-489E-BC23-F075D91C8145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA51421-80D5-489E-BC23-F075D91C8145}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EFA51421-80D5-489E-BC23-F075D91C8145}.Debug|x64.Build.0 = Debug|Any CPU
+		{EFA51421-80D5-489E-BC23-F075D91C8145}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EFA51421-80D5-489E-BC23-F075D91C8145}.Debug|x86.Build.0 = Debug|Any CPU
+		{EFA51421-80D5-489E-BC23-F075D91C8145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA51421-80D5-489E-BC23-F075D91C8145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA51421-80D5-489E-BC23-F075D91C8145}.Release|x64.ActiveCfg = Release|Any CPU
+		{EFA51421-80D5-489E-BC23-F075D91C8145}.Release|x64.Build.0 = Release|Any CPU
+		{EFA51421-80D5-489E-BC23-F075D91C8145}.Release|x86.ActiveCfg = Release|Any CPU
+		{EFA51421-80D5-489E-BC23-F075D91C8145}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
