@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparseArrays", "SparseArray
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintLinkedList", "PrintLinkedList\PrintLinkedList.csproj", "{EFA51421-80D5-489E-BC23-F075D91C8145}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueensAttack", "QueensAttack\QueensAttack.csproj", "{ECD68859-6B98-408C-808E-B448DE226707}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -100,5 +102,17 @@ Global
 		{EFA51421-80D5-489E-BC23-F075D91C8145}.Release|x64.Build.0 = Release|Any CPU
 		{EFA51421-80D5-489E-BC23-F075D91C8145}.Release|x86.ActiveCfg = Release|Any CPU
 		{EFA51421-80D5-489E-BC23-F075D91C8145}.Release|x86.Build.0 = Release|Any CPU
+		{ECD68859-6B98-408C-808E-B448DE226707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD68859-6B98-408C-808E-B448DE226707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD68859-6B98-408C-808E-B448DE226707}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{ECD68859-6B98-408C-808E-B448DE226707}.Debug|x64.Build.0 = Debug|Any CPU
+		{ECD68859-6B98-408C-808E-B448DE226707}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{ECD68859-6B98-408C-808E-B448DE226707}.Debug|x86.Build.0 = Debug|Any CPU
+		{ECD68859-6B98-408C-808E-B448DE226707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD68859-6B98-408C-808E-B448DE226707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD68859-6B98-408C-808E-B448DE226707}.Release|x64.ActiveCfg = Release|Any CPU
+		{ECD68859-6B98-408C-808E-B448DE226707}.Release|x64.Build.0 = Release|Any CPU
+		{ECD68859-6B98-408C-808E-B448DE226707}.Release|x86.ActiveCfg = Release|Any CPU
+		{ECD68859-6B98-408C-808E-B448DE226707}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
