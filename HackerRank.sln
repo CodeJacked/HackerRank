@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueensAttack", "QueensAttac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertNodeAtTailEnd", "InsertNodeAtTailEnd\InsertNodeAtTailEnd.csproj", "{147087D0-C3A6-4E5F-A821-1C9F1FC23913}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertNodeAtHead", "InsertNodeAtHead\InsertNodeAtHead.csproj", "{C7009F14-5668-4B53-8A2E-F7F34857465A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -128,5 +130,17 @@ Global
 		{147087D0-C3A6-4E5F-A821-1C9F1FC23913}.Release|x64.Build.0 = Release|Any CPU
 		{147087D0-C3A6-4E5F-A821-1C9F1FC23913}.Release|x86.ActiveCfg = Release|Any CPU
 		{147087D0-C3A6-4E5F-A821-1C9F1FC23913}.Release|x86.Build.0 = Release|Any CPU
+		{C7009F14-5668-4B53-8A2E-F7F34857465A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7009F14-5668-4B53-8A2E-F7F34857465A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7009F14-5668-4B53-8A2E-F7F34857465A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C7009F14-5668-4B53-8A2E-F7F34857465A}.Debug|x64.Build.0 = Debug|Any CPU
+		{C7009F14-5668-4B53-8A2E-F7F34857465A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C7009F14-5668-4B53-8A2E-F7F34857465A}.Debug|x86.Build.0 = Debug|Any CPU
+		{C7009F14-5668-4B53-8A2E-F7F34857465A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7009F14-5668-4B53-8A2E-F7F34857465A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7009F14-5668-4B53-8A2E-F7F34857465A}.Release|x64.ActiveCfg = Release|Any CPU
+		{C7009F14-5668-4B53-8A2E-F7F34857465A}.Release|x64.Build.0 = Release|Any CPU
+		{C7009F14-5668-4B53-8A2E-F7F34857465A}.Release|x86.ActiveCfg = Release|Any CPU
+		{C7009F14-5668-4B53-8A2E-F7F34857465A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
