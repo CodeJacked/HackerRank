@@ -3,7 +3,7 @@ using Xunit;
 
 namespace DynamicArray
 {
-    public class SolutionTest
+    public class SolutionTests
     {
         [Fact]
         public void Example1()
